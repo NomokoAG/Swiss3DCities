@@ -1,15 +1,5 @@
 # Swiss3DCities: Aerial Photogrammetric 3D Pointcloud Dataset with Semantic Labels
 
-<div align="center"> 
-	
-[![Paper](http://img.shields.io/badge/paper-arxiv.2012.12996-B31B1B.svg)](https://arxiv.org/abs/2012.12996)
-<!--
-ARXIV   
-[![Paper](http://img.shields.io/badge/arxiv-cs.CV:2012.12996-B31B1B.svg)](https://arxiv.org/abs/2012.12996)
--->
- 
-</div>
-
 This is the official repository of the **Swiss3DCities** dataset. For technical details, please refer to:
 
 **Semantic Segmentation on Swiss3DCities: A Benchmark Study on Aerial Photogrammetric 3D Pointcloud Dataset** <br/>
@@ -18,7 +8,22 @@ This is the official repository of the **Swiss3DCities** dataset. For technical 
 [Gabriele Abbate](https://www.supsi.ch/home_en/strumenti/rubrica/dettaglio.26119.html), 
 [Sébastien Chappuis](https://ch.linkedin.com/in/s%C3%A9bastien-chappuis-16926381) and 
 [Alessandro Giusti](https://ch.linkedin.com/in/alessandrogiusti). <br/>
-**[[Paper](https://arxiv.org/abs/2012.12996)] [[Project page](https://github.com/NomokoAG/Swiss3DCities)] [[Dataset Download](https://zenodo.org/record/4390295)]** <br/>
+
+<div align="center"> 
+	
+[![Paper](http://img.shields.io/badge/paper-arxiv.2012.12996-B31B1B.svg)](https://arxiv.org/abs/2012.12996)
+[![Dataset](http://img.shields.io/badge/dataset-zenodo.record.4390295-B31B1B.svg)](https://zenodo.org/record/4390295)
+<!--
+ARXIV   
+[![Paper](http://img.shields.io/badge/arxiv-cs.CV:2012.12996-B31B1B.svg)](https://arxiv.org/abs/2012.12996)
+-->
+<!--
+ZENODO   
+[![Dataset](http://img.shields.io/badge/dataset-zenodo.record.4390295-B31B1B.svg)](https://zenodo.org/record/4390295)
+-->
+ 
+</div>
+
 
 ### (1) Dataset Overview
 
