@@ -1,5 +1,15 @@
 # Swiss3DCities: Aerial Photogrammetric 3D Pointcloud Dataset with Semantic Labels
 
+<div align="center"> 
+	
+[![Paper](http://img.shields.io/badge/paper-arxiv.2012.12996-B31B1B.svg)](https://arxiv.org/abs/2012.12996)
+<!--
+ARXIV   
+[![Paper](http://img.shields.io/badge/arxiv-cs.CV:2012.12996-B31B1B.svg)](https://arxiv.org/abs/2012.12996)
+-->
+ 
+</div>
+
 This is the official repository of the **Swiss3DCities** dataset. For technical details, please refer to:
 
 **Semantic Segmentation on Swiss3DCities: A Benchmark Study on Aerial Photogrammetric 3D Pointcloud Dataset** <br/>
